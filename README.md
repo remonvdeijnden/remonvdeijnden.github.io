@@ -1,7 +1,7 @@
 # remonvdeijnden.github.io
 > Personal website build on Github
 
-**Things i want to add:
+**Things i want to add:**
 
 - Simple Vue project
 - Tested with Jest
