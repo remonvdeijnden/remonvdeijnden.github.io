@@ -45,3 +45,4 @@ If you have any questions about me, this guide, or have something interesting to
 - Checks in the pipeline
 - Build by Github
 - Connected to <a href="http://www.remonvdeijnden.nl">www.remonvdeijnden.nl</a>
+- Add first version of happje.app
