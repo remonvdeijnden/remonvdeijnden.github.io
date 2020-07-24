@@ -6,6 +6,7 @@ I wrote this user guide as an introduction of myself to other colleagues.
 If you have any questions about me, this guide, or have something interesting to share with me, please invite me for a coffee:)
 
 ## What gives me energy?
+- Eating healthy and tasty food
 - I like to be challenged and try new things over repetitive work.  
 - I prefer to work in a small cross-functional team where the full development stack is managed by the team.
 - Frontend development work! (with Vue.js)
